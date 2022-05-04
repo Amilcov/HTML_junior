@@ -1,5 +1,6 @@
 childNodes vs children 
-1. Same:  intorc o lista de Noduri
+1. Same:  1.1 intorc o lista(COLECTIE): 
+               1.2 de Noduri - elem HTML
 2. Difference:  childNode include white Spaces (\n) / comments
 
 ex: 
